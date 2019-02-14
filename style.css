@@ -1,0 +1,17 @@
+
+.color{
+    color: red;
+}
+
+#font{
+    font-size: 20px;
+}
+
+img {
+    border: 1px solid red
+}
+
+footer{
+    background-color: #666;
+    color:#FFF;
+}
